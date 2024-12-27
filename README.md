@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi there! I'm a passionate developer with a Bachelor's degree in Computer Engineering from Lviv Polytechnic National University and a Master's degree in Computer Science from Lutsk National Technical University.
+
+🌟 I am actively working towards my dream of becoming a Full-Stack Developer, combining my skills in both front-end and back-end technologies to build innovative and efficient applications.
+
+🚀 Currently, I'm honing my skills in modern web development frameworks and tools, and I'm always eager to learn new technologies and contribute to meaningful projects.
+
+💻 Feel free to explore my repositories, collaborate, or connect with me. Let’s build something amazing together!
 
 <!--
 **MaksymChuhriy/MaksymChuhriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
